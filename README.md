@@ -1,2 +1,0 @@
-# hubproj.github.io
-myhubprojects
